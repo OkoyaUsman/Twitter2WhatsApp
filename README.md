@@ -24,7 +24,7 @@ A Python bot that automatically downloads videos from Twitter and sends them to 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mokoshalb/Twitter2WhatsApp.git
+git clone https://github.com/OkoyaUsman/Twitter2WhatsApp.git
 cd Twitter2WhatsApp
 ```
 
